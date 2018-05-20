@@ -10,6 +10,7 @@ namespace PrototypeDesignPattern
     {
         static void Main(string[] args)
         {
+            //test
         }
     }
 }
