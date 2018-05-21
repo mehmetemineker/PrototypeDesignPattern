@@ -10,6 +10,7 @@ namespace PrototypeDesignPattern
     public class Book : ICopyable, ICloneable
     {
         public string Name { get; set; }
+        public Author Author { get; set; }
 
         public object Clone()
         {
